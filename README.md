@@ -1,1 +1,21 @@
-# Olá, eu sou [Seu Nome]! 👋Sou estudante de programação com conhecimento em Python 🐍 e Java ☕. Estou sempre em busca de aprender mais e melhorar minhas habilidades de codificação.## Sobre mim- 🎓 Estudante de [Seu Curso ou Área de Estudo]- 🌱 Aprendendo novas tecnologias e frameworks- 💻 Trabalhando em projetos pessoais e colaborativos- 📫 Você pode me encontrar em [seu e-mail ou link para redes sociais]## Linguagens e Tecnologias- Python 🐍- Java ☕- [Adicione outras linguagens ou tecnologias que você conhece]## Projetos### [Nome do Projeto 1]- Descrição breve do projeto.- [Link para o repositório](URL do repositório)### [Nome do Projeto 2]- Descrição breve do projeto.- [Link para o repositório](URL do repositório)## ContatoSinta-se à vontade para entrar em contato comigo se você tiver alguma dúvida ou se quiser colaborar em projetos!- [Seu LinkedIn](URL do LinkedIn)- [Seu Twitter](URL do Twitter)- [Seu e-mail](mailto:seuemail@example.com)Obrigado por visitar meu perfil! 🚀
+# Olá, eu sou [Seu Nome]! 
+
+👋Sou estudante de programação com conhecimento em Python 🐍 e Java ☕. 
+Estou sempre em busca de aprender mais e melhorar minhas habilidades de codificação.
+
+## Sobre mim
+
+- 🎓 Estudante de [Seu Curso ou Área de Estudo]
+- 🌱 Aprendendo novas tecnologias e frameworks
+- 💻 Trabalhando em projetos pessoais e colaborativos
+- 📫 Você pode me encontrar em [seu e-mail ou link para redes sociais]
+
+## Linguagens e Tecnologias
+
+- Python 🐍
+- Java ☕
+
+
+
+
+  
